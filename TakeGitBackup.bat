@@ -1,4 +1,4 @@
 git add .
 git add *
-git commit
+git commit -m "hello"
 git push origin master
